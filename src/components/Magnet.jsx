@@ -18,4 +18,4 @@ function Magnet() {
   )
 }
 
-export default Magnet
+export default Magnet 
